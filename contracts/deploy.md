@@ -1,0 +1,1 @@
+everdev contract deploy PileBlocksDAO.sol -n main -s pile_signer -d _randomNonce:8 -v 1000000000 -i '{"tokenRootAddress": "0:dbba0028173f5b8d09eb597e0cca88cb41a4875efdf8a1815bb31292f150f800"}'
